@@ -1,4 +1,12 @@
-### Hi there 👋
+# How's it going? I'm Damian 👋
+I am a full-stack software engineer living in Japan.
+I've recently fallen in love with design and am always interested in exploring new front-end frameworks and Javascript libraries.
+
+## Skills
+JavaScript, PERN (Postgres, Express, React, Node.js), HTML & CSS, Tailwind.css, Flutter, Dart
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmacdermott&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dmacdermott/dmacdermott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
