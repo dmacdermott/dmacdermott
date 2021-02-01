@@ -1,7 +1,7 @@
 # How's it goin'? I'm Damian 👋
 
 I'm a full-stack software engineer living in Japan.
-I've recently fallen in love with design and am always interested in exploring new front-end frameworks and Javascript libraries.
+I've recently fallen in love with design and am always interested in exploring new frameworks and JavaScript libraries.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmacdermott&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,11 +23,10 @@ I've recently fallen in love with design and am always interested in exploring n
 
 - <a href="https://github.com/skilltrain/skilltrain-app">skillTrain</a>
 
-  - A mobile app built in 3 weeks that connects gym goers with pesonal trainers via video chat
-  - Made with AWS and Flutter
+  - A mobile app built in three weeks that connects gym goers with pesonal trainers via video chat
 
 - <a href="https://github.com/CC16FloppyDisc/floppyDisc">Time Machine</a>
-  - An online market place that allows vintage game sellers to sell retro games. Built in one week using Stripe.
+  - An online market place made in one week that allows vintage game sellers to sell retro games.
 
 ## 💁‍♂️ Other than coding I enjoy
 
