@@ -7,7 +7,7 @@ I've recently fallen in love with design and am always interested in exploring n
 
 ## 👨‍💻 Skills
 
-<p float="left">
+<p style="display:flex; justify-content: flex-start>
 <img src="./images/javascript.svg">
 <img src="./images/html5.svg">
 <img src="./images/react.svg">
@@ -26,11 +26,12 @@ I've recently fallen in love with design and am always interested in exploring n
   - A mobile app built in three weeks that connects gym goers with pesonal trainers via video chat
 
 - <a href="https://github.com/CC16FloppyDisc/floppyDisc">Time Machine</a>
-  - An online market place made in one week that allows vintage game sellers to sell retro games.
+  - An online gaming marketplace, made in one week, that allows vintage game sellers to sell retro games.
 
 ## 💁‍♂️ Other than coding I enjoy
 
 - Skateboarding 🛹
+- Gaming 👾
 - Bike touring 🚵‍♂️
 - Snowboarding 🏂
 - Video Games 🎮
@@ -39,7 +40,7 @@ I've recently fallen in love with design and am always interested in exploring n
 
 ## 📧 Contact Me
 
-<p float="left">
+<p style="display:flex; justify-content: flex-start">
 <a href="mailto:damianmacdermott@gmail.com"><img src="./images/gmail.svg"></a>
 <a href="https://www.linkedin.com/in/dmacdermott/"><img src="./images/linkedin.svg"></a>
 </p>
